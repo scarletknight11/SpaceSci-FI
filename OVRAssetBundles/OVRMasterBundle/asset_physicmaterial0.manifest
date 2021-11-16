@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1315788381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bff3e6636a5f63f52e2f15ab6fdbb130
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4d58da2e394c3ac790f4c422276af4f
+HashAppended: 0
+ClassTypes:
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/PhysicMaterials/Slippery.physicMaterial
+Dependencies: []

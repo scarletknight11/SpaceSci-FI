@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 3122966760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9543c84e4acc5515c75ffeb28b55678
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 69b7c850adea132b1d181397a041730a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SpaceStationBuilder/Models/device_04.fbx
+- Assets/SpaceStationBuilder/Models/tank.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_HalfArc_90_02.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Door_01.FBX
+- Assets/SpaceStationBuilder/Models/module_02.fbx
+- Assets/SpaceStationBuilder/Models/module_06.fbx
+- Assets/SpaceStationBuilder/Models/scaffold_transparent.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Door_Arch_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Floor_Small_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Angle_Large_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Angle_01.FBX
+- Assets/SpaceStationBuilder/Models/connector_01.fbx
+- Assets/SpaceStationBuilder/Models/box.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Angle_Smal_01.FBX
+- Assets/SpaceStationBuilder/Models/scaffold_01.fbx
+- Assets/SpaceStationBuilder/Models/module_01.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_HalfArc_90_03.FBX
+- Assets/SpaceStationBuilder/Models/scaffold_ring.fbx
+- Assets/SpaceStationBuilder/Models/module_07.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Fan_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Column_01_Top.FBX
+- Assets/SpaceStationBuilder/Models/module_05.fbx
+- Assets/SpaceStationBuilder/Models/connector_02.fbx
+- Assets/SpaceStationBuilder/Models/cap_01.fbx
+- Assets/SpaceStationBuilder/Models/cylinder_02.fbx
+- Assets/SpaceStationBuilder/Models/sphere.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Simple_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Arc_90_01.FBX
+- Assets/SpaceStationBuilder/Models/ring_08.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Arc_90_02.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Floor_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Door_Left_01.FBX
+- Assets/SpaceStationBuilder/Models/ring_03.fbx
+- Assets/SpaceStationBuilder/Models/ring_02.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Light_01.FBX
+Dependencies:
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_mat0

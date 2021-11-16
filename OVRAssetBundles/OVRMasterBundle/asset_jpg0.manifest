@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2636696503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cabbba02e8cd6d03488f1a18b89c6bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SpaceStationBuilder/Textures/mars.jpg
+Dependencies: []

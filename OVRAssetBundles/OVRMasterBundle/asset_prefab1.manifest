@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 601692345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 253666c8776b55cdb8aa67082f6a3bc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3d4d2ea93df2974fb2e848ad456a4afb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SpaceStationBuilder/Prefabs/Components/connector_01.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Floor_Small_01.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Column_01_Top.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Wall_HalfArc_90_03.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Door_Arch_01.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Light_01.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Door_Left_01.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Floor_01.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/device_04.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Roof_Angle_Large_01.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Roof_Angle_01.prefab
+Dependencies:
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_mat0

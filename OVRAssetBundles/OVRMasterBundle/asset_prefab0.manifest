@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 1250539229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd69c0e791500882128a25298b1c3a99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 20958a9511968b926bc66df3517598c1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f967fd3979f910244bbb05dde518ead9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68ec2fe99d1108b9d0006a298d76c639, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5009e9d1b4124d742b8cdf74e3c3f8a6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SpaceStationBuilder/Prefabs/Components/box.prefab
+- Assets/Prefabs/OVRCameraRig.prefab
+- Assets/SpaceStationBuilder/Prefabs/Modules/module_06.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/ring_03.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/scaffold_01.prefab
+- Assets/SpaceStationBuilder/Prefabs/Modules/module_05.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Wall_Arc_90_01.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/cap_01.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/ring_08.prefab
+- Assets/SpaceStationBuilder/Prefabs/Modules/module_02.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/scaffold_ring.prefab
+- Assets/Prefabs/Cube.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/connector_02.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Room_Big_Part_03.prefab
+- Assets/Prefabs/_Level.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Room_Big_Part_01.prefab
+- Assets/SpaceStationBuilder/Prefabs/Modules/module_01.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/scaffold_transparent.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Roof_01.prefab
+- Assets/SpaceStationBuilder/Prefabs/Modules/modul_01.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Wall_HalfArc_90_02.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Roof_Door_01.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Fan_01.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Wall_Arc_90_02.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Wall_Simple_01.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/tank.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Roof_Angle_Smal_01.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/ring_02.prefab
+- Assets/SpaceStationBuilder/Prefabs/Modules/module_07.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Room_Big_Part_02.prefab
+Dependencies:
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_prefab1

@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 954636620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a522d23fcf7cd2d92d4d574f3f961a6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a23f9a9a9283800cc26a1f3c488aa1d8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5ea39e33ffd4f44cb67343be1aee061, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 025cc0fa7b46aa541aba29d28d35ac09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c592f16851a620743868a31232613370, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68ec2fe99d1108b9d0006a298d76c639, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bcd03e00992e084c8be61565d44b8bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a82c0bd3a8722764e81aa245cb94fe3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a04122797dd84ca43a07055f12d91e0f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/SampleScene.unity
+Dependencies:
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_prefab1

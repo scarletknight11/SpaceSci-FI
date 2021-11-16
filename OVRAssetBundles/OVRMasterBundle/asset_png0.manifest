@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2478262718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91a2ccc56dab2dddbad7c7ecbd5bb856
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Barking_Dog/3D Free Modular Kit/_Textures/Ambient_01.png
+- Assets/SpaceStationBuilder/Textures/panel_01_basecolor.png
+- Assets/_Barking_Dog/3D Free Modular Kit/_Textures/Neon.png
+- Assets/_Barking_Dog/3D Free Modular Kit/_Textures/Diffuse_01.png
+- Assets/SpaceStationBuilder/Textures/SpaceStation_occlusion.png
+- Assets/SpaceStationBuilder/Textures/panel_01_height.png
+- Assets/SpaceStationBuilder/Textures/panel_01_normal.png
+- Assets/SpaceStationBuilder/Textures/SpaceStation_metallic.png
+- Assets/SpaceStationBuilder/Textures/SpaceStation_basecolor.png
+- Assets/_Barking_Dog/3D Free Modular Kit/_Textures/Normal_01.png
+- Assets/SpaceStationBuilder/Textures/SpaceStation_normal.png
+Dependencies: []

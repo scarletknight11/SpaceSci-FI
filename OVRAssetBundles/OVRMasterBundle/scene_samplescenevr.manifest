@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 3790272421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a06e19add56697d5e0d355e6f183ce86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4758e420c6909387227b5a17dd9ce5ba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72ca1a63ebde52443934466036a1ea3f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f967fd3979f910244bbb05dde518ead9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68ec2fe99d1108b9d0006a298d76c639, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b8f629ce6d99f644ac267adad3ee1ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/SampleSceneVR.unity
+Dependencies:
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_prefab1

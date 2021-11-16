@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4184627756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8e38c41786945de31d21806ad92fd9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Doorleftopen.anim
+- Assets/Animation/Doorrightopen.anim
+- Assets/Animation/Door Close.anim
+- Assets/Animation/Door Close2.anim
+Dependencies: []

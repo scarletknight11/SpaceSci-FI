@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3380904365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8bd39cf2853aac29a89820d36cd8c7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SpaceStationBuilder/Materials/surface01.mat
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Diffuse_01.mat
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Neon_01.mat
+- Assets/SpaceStationBuilder/Materials/sky.mat
+- Assets/SpaceStationBuilder/Materials/background_03.mat
+- Assets/SpaceStationBuilder/Materials/SpaceStation.mat
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Glass.mat
+- Assets/SpaceStationBuilder/Materials/skySphere.mat
+- Assets/SpaceStationBuilder/Models/Materials/No Name.mat
+Dependencies:
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_hdr0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_tif0
