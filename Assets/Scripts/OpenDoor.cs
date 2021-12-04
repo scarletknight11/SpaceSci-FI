@@ -31,4 +31,11 @@ public class OpenDoor : MonoBehaviour {
         } 
     }
 
+    public void DoorOpen()
+    {
+        myDoor.Play(doorOpen, 0, 1.0f);
+        this.gameObject.SetActive(false);
+    }
+
+
 }
