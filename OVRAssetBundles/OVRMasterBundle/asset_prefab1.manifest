@@ -1,47 +1,150 @@
 ManifestFileVersion: 0
-CRC: 601692345
+CRC: 1536954720
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 253666c8776b55cdb8aa67082f6a3bc5
+    Hash: ecc44406dfb238861d89b214f7996a72
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3d4d2ea93df2974fb2e848ad456a4afb
+    Hash: 2bea01857e46cb20be851557fbe89d22
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
   Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
 - Class: 23
+  Script: {instanceID: 0}
+- Class: 28
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
 - Class: 82
   Script: {instanceID: 0}
-- Class: 108
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6682dc6245ac3fd4ea723a628fbee9ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54c16b381e28e8d479237771d234dbae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 695a5774063fea4478cb74ca28d26855, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cba520a60e47274cb1e5afbb57aae0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81c169a39f8e430d869bbc5d938b0e5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 889e684278db8a542aa634e254b665aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cc5c234723e3a54d8dd09b131117743, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1287d4d138a242f794bcfc01354d3ae2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d612b39739f7ed41a73c6dbafebd2ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61e55d5030302974a867024ab486d306, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61c488a46c144ae189c60c29dc72b3b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61e2b9c3b68642d6a51894a46aaece55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70751eb9a4a4872b711b9d9ea27b3d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb7623a8f0b49cf4dbaa40aea4d4be64, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 230678194b2c0d540b2607de22dd64cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73eac66b128fc8749a21623225c34541, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b02e2f8ae628ac4f9faca951fe12db4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef91a627a11b4a22b41dd9109dfd8703, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dfa7178ac1c18947adff71ef2792a84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a37656c1d3e22d4fb4bd26e18ad185f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9296b71443954db1b4571935a43e5266, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305511cf46164e8a8a7f71ac65deefbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2609c54f376cffc4da1ab9401cc1a36f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aed62bf3ae2456c408f247f96808ce96, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8a9ef5f8a8a8a544b72a491c9bc99f4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 137
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/SpaceStationBuilder/Prefabs/Components/connector_01.prefab
-- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Floor_Small_01.prefab
-- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Column_01_Top.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Cursors/MouseCursor.prefab
+- Assets/Samples/Ultraleap Tracking/5.0.0/Examples/Interaction Engine Examples/Common
+  Example Assets/Prefabs/Cube UI Button.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Hands/HandJointSmall.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Pointers/GGVPointer.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Wall_Arc_90_01.prefab
+- Assets/MRTK/Providers/Oculus/XRSDK/MRTK-Quest/Prefabs/MRTK-Quest_OVRCameraRig.prefab
+- Assets/SpaceStationBuilder/Prefabs/Modules/module_05.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/cap_01.prefab
 - Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Wall_HalfArc_90_03.prefab
-- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Door_Arch_01.prefab
-- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Light_01.prefab
-- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Door_Left_01.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Cursors/CursorMoveArrowsNortheastSouthwest.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/RiggedHandVisualizer/RiggedHandRight.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Cursors/CursorMoveArrowsMove.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Pointers/ParabolicTeleportPointer.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Cursors/FingerCursor.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Cursors/CursorMoveArrowsNorthSouth.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/scaffold_transparent.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Cursors/CursorRotateArrowsHorizontal.prefab
 - Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Floor_01.prefab
-- Assets/SpaceStationBuilder/Prefabs/Components/device_04.prefab
+- Assets/MRTK/SDK/StandardAssets/Controllers/DebugControllers/HandSkeletonLeft.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Roof_Door_01.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Pointers/PokePointer.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Pointers/ConicalGrabPointer.prefab
+- Assets/MRTK/SDK/StandardAssets/Prefabs/ArticulatedHandMesh.prefab
 - Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Roof_Angle_Large_01.prefab
-- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Roof_Angle_01.prefab
+- Assets/MRTK/SDK/StandardAssets/Controllers/DebugControllers/GizmoRight.prefab
+- Assets/MRTK/SDK/Features/UX/Prefabs/Cursors/CursorMoveArrowsEastWest.prefab
+- Assets/SpaceStationBuilder/Prefabs/Components/tank.prefab
+- Assets/SpaceStationBuilder/Prefabs/Modules/module_07.prefab
+- Assets/_Barking_Dog/3D Free Modular Kit/_Prefabs/Room_Big_Part_02.prefab
 Dependencies:
-- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_prefab2
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_wav0

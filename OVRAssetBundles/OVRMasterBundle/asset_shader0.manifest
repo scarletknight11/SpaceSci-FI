@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2482263479
+CRC: 1475695003
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: acbfcf61c22a3991760b0234a98ed970
+    Hash: f454050436d2d5ac6411f66f420db5bf
   TypeTreeHash:
     serializedVersion: 2
     Hash: e70a9c3ac033a59b68548e414f91bf57
@@ -13,5 +13,10 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Plugins/LeapMotion/Modules/Hands/Models/GenericHand/GenericHandShader.shader
+- Assets/MRTK/StandardAssets/Shaders/MixedRealityStandard.shader
+- Assets/MRTK/SDK/StandardAssets/Shaders/HandTriangles.shader
+- Assets/MRTK/Providers/Oculus/XRSDK/MRTK-Quest/Art/Shaders/RimOutline.shader
+- Assets/MRTK/StandardAssets/Shaders/InstancedColored.shader
+- Assets/MRTK/StandardAssets/Shaders/MRTK_Wireframe.shader
+- Assets/MRTK/SDK/StandardAssets/Shaders/FingerTipCursor.shader
 Dependencies: []

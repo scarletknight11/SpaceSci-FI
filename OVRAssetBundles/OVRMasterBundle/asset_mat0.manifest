@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3380904365
+CRC: 3657178503
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a8bd39cf2853aac29a89820d36cd8c7d
+    Hash: 4f26dcca1f1b86be1d221e06b0198cde
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
@@ -17,17 +17,38 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Red.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/MRTK/SDK/Features/UX/Materials/HandIndexTip.mat
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
 - Assets/SpaceStationBuilder/Materials/surface01.mat
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Diffuse_01.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Blue.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_LightGray.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Wireframe.mat
 - Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Neon_01.mat
-- Assets/SpaceStationBuilder/Materials/sky.mat
 - Assets/SpaceStationBuilder/Materials/background_03.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Black.mat
 - Assets/SpaceStationBuilder/Materials/SpaceStation.mat
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Glass.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Green.mat
+- Assets/MRTK/SDK/Features/UX/Materials/Teleport/TeleportArrow.mat
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Materials/Shadow.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Occlusion.mat
 - Assets/SpaceStationBuilder/Materials/skySphere.mat
-- Assets/SpaceStationBuilder/Models/Materials/No Name.mat
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Glass.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_GrabPointerTetherLine.mat
+- Assets/Samples/Ultraleap Tracking/5.0.0/Examples/Example Assets/3D Models/Interactable_Colour.mat
+- Assets/MRTK/SDK/Features/UX/Materials/HandJoint.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_GrabPointerGrabPoint.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/MRTK/Providers/Oculus/XRSDK/MRTK-Quest/Art/Materials/HandMeshOutline.mat
+- Assets/MRTK/Services/DiagnosticsSystem/Materials/DiagnosticsInstancedColored.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_DefaultPointerLineNoTarget.mat
+- Assets/MRTK/SDK/Features/UX/Materials/Teleport/TeleportMid.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_TransparentCyan.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_FingerTipCursor.mat
 Dependencies:
-- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_hdr0
-- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_jpg0
-- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_png0
-- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_tif0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_tga0

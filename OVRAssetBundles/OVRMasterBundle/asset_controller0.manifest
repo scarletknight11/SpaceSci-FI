@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2098466959
+CRC: 3705425138
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bfbdc318c6cc07752117f5ee3948ff60
+    Hash: 1c9164d47c77f2a05a14b1664338934a
   TypeTreeHash:
     serializedVersion: 2
     Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
@@ -15,7 +15,17 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursor.controller
 - Assets/Animation/Door_Left_01 1.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSLeftAnimation.controller
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportCursorController.controller
 - Assets/Animation/Door_Left_01.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2LeftAnimation.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftRightAnimation.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSRightAnimation.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftLeftAnimation.controller
 Dependencies:
-- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_fbx1

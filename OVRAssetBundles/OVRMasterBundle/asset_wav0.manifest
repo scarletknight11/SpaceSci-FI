@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 206588994
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cea7922cdad4f2a6ea4557bd9d700294
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/StandardAssets/Audio/MRTK_Manipulation_Start.wav
+- Assets/MRTK/StandardAssets/Audio/MRTK_Select_Main.wav
+Dependencies: []

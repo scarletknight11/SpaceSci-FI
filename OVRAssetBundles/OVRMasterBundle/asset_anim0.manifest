@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4184627756
+CRC: 633390767
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d8e38c41786945de31d21806ad92fd9d
+    Hash: 139eb5886063e80d9a454723b9725d1d
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -13,8 +13,23 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportCursorDisabled.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorRotateHorizontal.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorIdleAnim.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportValid.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorNoContext.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorPressedAnim.anim
 - Assets/Animation/Doorleftopen.anim
 - Assets/Animation/Doorrightopen.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportInvalid.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNorthSouth.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNortheastSouthwest.anim
 - Assets/Animation/Door Close.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveCross.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorRotateVertical.anim
 - Assets/Animation/Door Close2.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/TeleportCursor/TeleportIdle.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveEastWest.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/Contextual/DefaultCursorMoveNorthwestSoutheast.anim
+- Assets/MRTK/SDK/Features/UX/Animations/Cursors/DefaultCursor/DefaultCursorIdleRingAnim.anim
 Dependencies: []

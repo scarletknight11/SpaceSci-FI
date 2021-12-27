@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 2244499062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 669b0fcbe4bd372be15dd54eb0eef2b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 16fcd8027d4af770e3b482809f342673
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19f279aded72cb741b4de89a54359dd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db393d206eab4604ab74278cb6cda355, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7612acbc1a4a4ed0afa5f4ccbe42bee4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0f53b7a20151524496349154c40c679, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b71cb900fa9dec5488df2deb180db58f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e721f74104fc5e498856a7c337d6632, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7554812f08ec49e694a8d9d4ee235a9c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4a1c93114e9437cb75d8b3ee4e0e1ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d561f5f963b45674aa423435fb820879, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1a15d870c8b4e52acc4643bd258ed6e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78a4b02a0d9e7044fa19c6d432d0cafa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f726b4cb3605994fac74d508110ec62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c2d00f2d26cc124caed106ffbfe3f06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b81dae1d46879b444aa9847f7961649f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8275efdbe76bdff49a97a8e82fba118d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f18fec9b55c4f818e284af454161962, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 514da61389c049c0bdaf31b7f6970d33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3193d07953d1c3e44ad7ad26908fe6b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee54661ca8af487c9db40e57d479fa48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a794cc45c30a79b4da55bfd426876503, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a1cf5fd47e548e6a23bdd3ddcc00cf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eebbca41bb0b40d298ef201735d08616, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9fd6338e77774badb73a2b1320b41caf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityRegisteredServiceProvidersProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityCameraProfile.asset
+- Assets/MRTK/Providers/WindowsMixedReality/Shared/Profiles/DefaultWindowsMixedRealityCameraSettingsProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityXRSDKControllerVisualizationProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputRecordingProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityControllerMappingProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityDiagnosticsProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealitySceneSystemProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputSimulationProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealitySpatialAwarenessMeshObserverProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityBoundaryVisualizationProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityToolkitExperienceSettingsProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityGesturesProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputSystemProfile.asset
+- Assets/MRTK/Providers/XRSDK/Profiles/DefaultXRSDKSpatialAwarenessSystemProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealitySpatialAwarenessSystemProfile.asset
+- Assets/MRTK/Providers/OpenXR/Profiles/DefaultOpenXRCameraSettingsProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealitySpeechCommandsProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputActionRulesProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityControllerVisualizationProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputActionsProfile.asset
+- Assets/MRTK/Providers/XRSDK/Profiles/DefaultXRSDKCameraProfile.asset
+- Assets/MRTK/Providers/Oculus/XRSDK/Profiles/DefaultOculusXRSDKDeviceManagerProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityHandTrackingProfile.asset
+- Assets/MRTK/Providers/XRSDK/Profiles/DefaultXRSDKConfigurationProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityToolkitConfigurationProfile.asset
+- Assets/MRTK/Providers/XRSDK/Profiles/DefaultXRSDKInputSystemProfile.asset
+- Assets/MRTK/SDK/Profiles/DefaultMixedRealityInputPointerProfile.asset
+Dependencies:
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_prefab2

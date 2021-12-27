@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3122966760
+CRC: 1902446084
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c9543c84e4acc5515c75ffeb28b55678
+    Hash: 7b02522db3991417554b4273f3529852
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 69b7c850adea132b1d181397a041730a
+    Hash: aeded50f4d49d62b69dc5840f3b95985
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,43 +23,63 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/SpaceStationBuilder/Models/device_04.fbx
 - Assets/SpaceStationBuilder/Models/tank.fbx
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_HalfArc_90_02.FBX
+- Assets/Samples/Ultraleap Tracking/5.0.0/Examples/Example Assets/3D Models/Ultraleap_Cube_Interactable.fbx
 - Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Door_01.FBX
-- Assets/SpaceStationBuilder/Models/module_02.fbx
-- Assets/SpaceStationBuilder/Models/module_06.fbx
-- Assets/SpaceStationBuilder/Models/scaffold_transparent.fbx
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_01.FBX
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Door_Arch_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_HalfArc_90_02.FBX
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Sliders/Volumetric_UI_Components.fbx
 - Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Floor_Small_01.FBX
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Angle_Large_01.FBX
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Angle_01.FBX
-- Assets/SpaceStationBuilder/Models/connector_01.fbx
-- Assets/SpaceStationBuilder/Models/box.fbx
 - Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Angle_Smal_01.FBX
-- Assets/SpaceStationBuilder/Models/scaffold_01.fbx
-- Assets/SpaceStationBuilder/Models/module_01.fbx
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_HalfArc_90_03.FBX
-- Assets/SpaceStationBuilder/Models/scaffold_ring.fbx
-- Assets/SpaceStationBuilder/Models/module_07.fbx
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Fan_01.FBX
 - Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Column_01_Top.FBX
-- Assets/SpaceStationBuilder/Models/module_05.fbx
-- Assets/SpaceStationBuilder/Models/connector_02.fbx
+- Assets/SpaceStationBuilder/Models/box.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_HalfArc_90_03.FBX
+- Assets/MRTK/SDK/StandardAssets/Models/MRTK_FingerTipCursor.fbx
+- Assets/SpaceStationBuilder/Models/module_07.fbx
 - Assets/SpaceStationBuilder/Models/cap_01.fbx
+- Assets/MRTK/SDK/Features/UX/Prefabs/RiggedHandVisualizer/R_Hand_MRTK_Rig.fbx
+- Assets/MRTK/SDK/Features/UX/Prefabs/RiggedHandVisualizer/L_Hand_MRTK_Rig.fbx
 - Assets/SpaceStationBuilder/Models/cylinder_02.fbx
-- Assets/SpaceStationBuilder/Models/sphere.fbx
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Simple_01.FBX
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Arc_90_01.FBX
-- Assets/SpaceStationBuilder/Models/ring_08.fbx
 - Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Arc_90_02.FBX
-- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Floor_01.FBX
 - Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Door_Left_01.FBX
-- Assets/SpaceStationBuilder/Models/ring_03.fbx
 - Assets/SpaceStationBuilder/Models/ring_02.fbx
 - Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Light_01.FBX
+- Assets/SpaceStationBuilder/Models/device_04.fbx
+- Assets/SpaceStationBuilder/Models/module_02.fbx
+- Assets/SpaceStationBuilder/Models/module_06.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Angle_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Door_Arch_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Angle_Large_01.FBX
+- Assets/SpaceStationBuilder/Models/connector_01.fbx
+- Assets/SpaceStationBuilder/Models/scaffold_01.fbx
+- Assets/SpaceStationBuilder/Models/scaffold_ring.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Fan_01.FBX
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Samples/Ultraleap Tracking/5.0.0/Examples/Example Assets/3D Models/Ultraleap_Cube.fbx
+- Assets/SpaceStationBuilder/Models/connector_02.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_Focus_geo.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Simple_01.FBX
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Arc_90_01.FBX
+- Assets/SpaceStationBuilder/Models/sphere.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/SpaceStationBuilder/Models/ring_08.fbx
+- Assets/MRTK/SDK/StandardAssets/Controllers/DebugControllers/Models/GizmoRight.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/TeleportCursor.fbx
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Cursor_MoveArrows_geo.fbx
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Floor_01.FBX
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
 Dependencies:
-- D:/LeapmotionVR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_mat1

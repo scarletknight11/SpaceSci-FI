@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3242026598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3d288a21c3b8543be19b50265fff11a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MRTK/SDK/Features/UX/Meshes/Cursors/Materials/Light.mat
+- Assets/Samples/Ultraleap Tracking/5.0.0/Examples/Example Assets/3D Models/Base_Colour.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_ArticulatedHandMesh.mat
+- Assets/_Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Diffuse_01.mat
+- Assets/MRTK/StandardAssets/Materials/MRTK_Standard_Yellow.mat
+- Assets/SpaceStationBuilder/Materials/sky.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MouseCursor.mat
+- Assets/MRTK/SDK/StandardAssets/Materials/MRTK_DefaultPointerLine.mat
+- Assets/Samples/Ultraleap Tracking/5.0.0/Examples/Interaction Engine Examples/Common
+  Example Assets/Materials/IE Example Gray Matte.mat
+- Assets/Samples/Ultraleap Tracking/5.0.0/Examples/Interaction Engine Examples/Common
+  Example Assets/Materials/IE Example Light Gray Matte.mat
+- Assets/Samples/Ultraleap Tracking/5.0.0/Examples/Interaction Engine Examples/Common
+  Example Assets/Materials/IE Example Dark Matte.mat
+- Assets/MRTK/SDK/Features/UX/Materials/Teleport/TeleportBase.mat
+- Assets/SpaceStationBuilder/Models/Materials/No Name.mat
+Dependencies:
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_hdr0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/SpaceSci-FI/OVRAssetBundles/OVRMasterBundle/asset_tif0

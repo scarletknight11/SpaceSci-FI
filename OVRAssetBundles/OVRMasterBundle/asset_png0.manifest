@@ -1,27 +1,36 @@
 ManifestFileVersion: 0
-CRC: 2478262718
+CRC: 120976384
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 91a2ccc56dab2dddbad7c7ecbd5bb856
+    Hash: abea710a17623542520228a666a209b3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b0363f7088f9761414f730641bf9a24b
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/_Barking_Dog/3D Free Modular Kit/_Textures/Ambient_01.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Assets/MRTK/StandardAssets/Icons/settings_icon.png
 - Assets/SpaceStationBuilder/Textures/panel_01_basecolor.png
-- Assets/_Barking_Dog/3D Free Modular Kit/_Textures/Neon.png
+- Assets/MRTK/StandardAssets/Textures/DefaultPointerDottedLine.png
+- Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/Unity.VisualScripting.Variables.png
 - Assets/_Barking_Dog/3D Free Modular Kit/_Textures/Diffuse_01.png
+- Assets/_Barking_Dog/3D Free Modular Kit/_Textures/Neon.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/Unity.VisualScripting.SceneVariables.png
 - Assets/SpaceStationBuilder/Textures/SpaceStation_occlusion.png
 - Assets/SpaceStationBuilder/Textures/panel_01_height.png
 - Assets/SpaceStationBuilder/Textures/panel_01_normal.png
-- Assets/SpaceStationBuilder/Textures/SpaceStation_metallic.png
-- Assets/SpaceStationBuilder/Textures/SpaceStation_basecolor.png
+- Assets/MRTK/StandardAssets/Textures/MouseCursor.png
 - Assets/_Barking_Dog/3D Free Modular Kit/_Textures/Normal_01.png
+- Assets/SpaceStationBuilder/Textures/SpaceStation_basecolor.png
+- Assets/SpaceStationBuilder/Textures/SpaceStation_metallic.png
 - Assets/SpaceStationBuilder/Textures/SpaceStation_normal.png
 Dependencies: []

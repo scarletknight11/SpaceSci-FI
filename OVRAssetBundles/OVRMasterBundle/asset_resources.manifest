@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2524669104
+CRC: 2692975016
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a8f9d26f1c121f58980fd6a4b4c46f70
+    Hash: 56a16de5bdff68ed3d73c80e36f42791
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 507960daccb03c508efa67fd0f536502
+    Hash: a8a7d370e6d709b95b2ae4661a3d1732
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -24,6 +24,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
@@ -34,48 +36,80 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to
+  Orange - Vertical.asset
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
-- Assets/Plugins/LeapMotion/Modules/Hands/Resources/SecondaryButton.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+  SDF - Metalic Green.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+  SDF - Soft Mask.mat
 - Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
 - Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
 - Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
 - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
 - Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+  SDF - Overlay.mat
 - Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
 - Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
 - Assets/Oculus/VR/Resources/Cubemap Blit.shader
 - Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop
+  Shadow.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
 - Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
 - Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
 - Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
-- Assets/Plugins/LeapMotion/Modules/Hands/Resources/EditorHand.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF
+  - Surface.mat
 - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to
+  Purple - Vertical.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to
+  Dark Green - Vertical.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
 - Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway
+  Sign SDF.asset
 - Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
 - Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny
+  Days.mat
 - Assets/Oculus/VR/Resources/OVRMRUnlit.shader
 - Assets/Oculus/Avatar/Resources/Materials/Expressive/AvatarEyeLens.shader
 - Assets/Resources/ONSPSettings.asset
-- Assets/Plugins/LeapMotion/Modules/Hands/Resources/EditorDocumentationGreenDownstate.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF
+  - Drop Shadow.mat
 - Assets/TextMesh Pro/Resources/TMP Settings.asset
 - Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
 - Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBS.shader
 - Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader
-- Assets/Plugins/LeapMotion/Modules/Hands/Resources/EditorDividerline.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF -
+  Outline.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to
+  Light Green - Vertical.asset
 - Assets/Resources/OVRBuildConfig.asset
 - Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
 - Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF -
+  Drop Shadow.mat
 - Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
 - Assets/Resources/OVRPlatformToolSettings.asset
 - Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
-- Assets/Plugins/LeapMotion/Modules/Hands/Resources/EditorDocumentationGreenUpstate.png
+- Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
 - Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader
 - Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
 - Assets/Oculus/VR/Resources/Texture2D Blit.shader
-- Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
 - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
 - Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
 Dependencies: []
